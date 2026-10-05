@@ -1,7 +1,7 @@
 [project]
 name = "mcp-demo"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP server that gives AI assistants live US weather alerts from the National Weather Service API"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
